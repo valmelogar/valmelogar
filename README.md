@@ -12,7 +12,7 @@ I combine **business knowledge, data analytics and technology** to build solutio
 ⚽ Interested in the intersection between football, data and technology
 
 <p align="left">
-  <a href="www.linkedin.com/in/valme-lopez-garcia">
+  <a href="https://www.linkedin.com/in/valme-lopez-garcia">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -148,7 +148,7 @@ I'm always interested in connecting with people working in:
 **Data Analytics · Business Intelligence · AI · Automation · Power Platform · Sports Analytics**
 
 <p align="left">
-  <a href="www.linkedin.com/in/valme-lopez-garcia">
+  <a href="https://www.linkedin.com/in/valme-lopez-garcia">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
