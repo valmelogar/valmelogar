@@ -102,7 +102,7 @@ Exploratory data analysis project focused on **urban mobility**, using Python to
 
 A project developed as part of my Master's degree, applying data and AI techniques to a real-world problem.
 
-🔗 Repository coming soon.
+🔗 [View repository](https://github.com/valmelogar/TFM_motor_predictivo_futbol_laliga.)
 
 ---
 
